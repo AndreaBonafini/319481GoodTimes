@@ -1,0 +1,17 @@
+﻿Input
+
+textbox-button-label
+
+Processing
+
+Convert text to integer
+Follow the logic
+(for example Victoria is 3 hours earlier than Ottawa)
+In case the imput is >0059 output changes to the following hour by removing 40
+In case Ottawa is 2400,the cities that has a later time remove 2400
+In case Ottawa is 0001 the cities that has a earlier time is
+the time in the city (even if >2400 )add 2400
+
+Output
+Hour in Ottawa
+Hour in all the other cities
